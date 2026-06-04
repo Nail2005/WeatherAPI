@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9577438-4DF9-4096-A65A-E821AF69E241}|WeatherAPI\\WeatherAPI.csproj|c:\\users\\administrator\\onedrive\\desktop\\software_village intern\\weatherapiproject\\weatherapi\\weatherapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D9577438-4DF9-4096-A65A-E821AF69E241}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9577438-4DF9-4096-A65A-E821AF69E241}|WeatherAPI\\WeatherAPI.csproj|c:\\users\\administrator\\onedrive\\desktop\\software_village intern\\weatherapiproject\\weatherapi\\weatherapi\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D9577438-4DF9-4096-A65A-E821AF69E241}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9577438-4DF9-4096-A65A-E821AF69E241}|WeatherAPI\\WeatherAPI.csproj|c:\\users\\administrator\\onedrive\\desktop\\software_village intern\\weatherapiproject\\weatherapi\\weatherapi\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9577438-4DF9-4096-A65A-E821AF69E241}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9577438-4DF9-4096-A65A-E821AF69E241}|WeatherAPI\\WeatherAPI.csproj|c:\\users\\administrator\\onedrive\\desktop\\software_village intern\\weatherapiproject\\weatherapi\\weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9577438-4DF9-4096-A65A-E821AF69E241}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9577438-4DF9-4096-A65A-E821AF69E241}|WeatherAPI\\WeatherAPI.csproj|c:\\users\\administrator\\onedrive\\desktop\\software_village intern\\weatherapiproject\\weatherapi\\weatherapi\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D9577438-4DF9-4096-A65A-E821AF69E241}|WeatherAPI\\WeatherAPI.csproj|solutionrelative:weatherapi\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\.env",
+              "RelativeDocumentMoniker": "WeatherAPI\\.env",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\.env",
+              "RelativeToolTip": "WeatherAPI\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-04T21:07:41.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\.gitignore",
+              "RelativeDocumentMoniker": "WeatherAPI\\.gitignore",
+              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\.gitignore",
+              "RelativeToolTip": "WeatherAPI\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-04T21:07:14.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WeatherController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\Controllers\\WeatherController.cs",
               "RelativeDocumentMoniker": "WeatherAPI\\Controllers\\WeatherController.cs",
@@ -39,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\Program.cs",
               "RelativeDocumentMoniker": "WeatherAPI\\Program.cs",
@@ -47,21 +77,7 @@
               "RelativeToolTip": "WeatherAPI\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T17:36:21.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": ".gitignore.txt",
-              "DocumentMoniker": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\.gitignore.txt",
-              "RelativeDocumentMoniker": "WeatherAPI\\.gitignore.txt",
-              "ToolTip": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\.gitignore.txt",
-              "RelativeToolTip": "WeatherAPI\\.gitignore.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-06-03T19:58:25.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T17:36:21.874Z"
             }
           ]
         }
