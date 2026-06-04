@@ -16,7 +16,6 @@ var password = Environment.GetEnvironmentVariable("DB_PASSWORD");
 
 var connectionString = $"Server={host}; Database={db};User Id={user};Password={password};TrustServerCertificate=True;";
 
-// Add services to the container.
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -30,6 +29,8 @@ builder.Services.AddDbContext<WeatherDbContext>(options =>
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+
 
 builder.Services.AddScoped<IWeatherRepository, WeatherRepository>();
 builder.Services.AddScoped<IWeatherService, WeatherService>();
@@ -47,6 +48,13 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+
+app.UseSwagger();
+app.UseSwaggerUI(options =>
+{
+    options.SwaggerEndpoint("/swagger/v1/swagger.json", "Weather API v1");
+    options.RoutePrefix = "docs";
+});
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

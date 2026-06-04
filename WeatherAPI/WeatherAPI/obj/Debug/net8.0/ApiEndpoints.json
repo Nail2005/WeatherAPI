@@ -13,6 +13,28 @@
         "IsRequired": false
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 404
+      }
+    ],
+    "Description": "Returns current weather data for the specified city.",
+    "Summary": "Get weather information by city"
   }
 ]

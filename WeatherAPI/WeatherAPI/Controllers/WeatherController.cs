@@ -17,6 +17,12 @@ namespace WeatherAPI.Controllers
         }
 
         [HttpGet]
+        [Produces("application/json")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [EndpointSummary("Get weather information by city")]
+        [EndpointDescription("Returns current weather data for the specified city.")]     
         public async Task<IActionResult> GetWeather([FromQuery] RequestDto dto)
         {
             if(string.IsNullOrWhiteSpace(dto.City))

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\OneDrive\\Desktop\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\WeatherAPI.csproj": {}
+    "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\WeatherAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\OneDrive\\Desktop\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\WeatherAPI.csproj": {
+    "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\WeatherAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\WeatherAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\WeatherAPI.csproj",
         "projectName": "WeatherAPI",
-        "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\WeatherAPI.csproj",
+        "projectPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\WeatherAPI.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\OneDrive\\Desktop\\Software_Village Intern\\WeatherAPIProject\\WeatherAPI\\WeatherAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
