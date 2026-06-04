@@ -1,4 +1,4 @@
 bin/
 obj/
-.env
+WeatherAPI/WeatherAPI/.env.txt
 .vs/
